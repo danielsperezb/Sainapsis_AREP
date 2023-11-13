@@ -20,6 +20,7 @@ Asegúrate de tener instaladas las siguientes tecnologías:
 - Pip
 -Pinecone (Sitio Web); https://www.pinecone.io/
 
+![image](https://github.com/danielsperezb/Sainapsis_AREP/assets/101849347/88a679c4-c7fd-4773-a3d3-7a26e54099d6)
 
 
 Te puedes guiar con lo siguiente:

@@ -6,6 +6,11 @@ El enfoque principal del taller fue aprender a utilizar Langchain, una herramien
 
 Las tareas del taller incluyeron la configuración de una Tool de Langchain que consultara los documentos almacenados en la base de datos de vectores de Pinecone. La meta final fue la creación de un API REST que, al recibir un mensaje de usuario, lo procesara a través de un orquestador (API de Python ejecutando un agente de Langchain). Este proceso utilizaría la base de datos de vectores y los endpoints de OpenAI para el LLM, generando así una respuesta contextual y relevante.
 
+## Desafio 1
+Crear una base de datos de vectores en Pinecone Starter Version (https://www.pinecone.io/) 
+usando su correo institucional, cargar los documentos anexos (FAQs de universidades) usando 
+Embeddings de OpenAI y Langchain. Configurar una Tool de langchain que consulte los documentos 
+y genere una respuesta.
 
 # Pon el Proyecto en tu maquina
 
